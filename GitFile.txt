@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 Welcome to Git/GitHub 
 Hello world with Git
 Text file for branch master
-=======
 File for task1
->>>>>>> Add contain to GitFile on task1
+Add contain to GitFile on task1
